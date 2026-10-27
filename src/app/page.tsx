@@ -9,7 +9,7 @@ import { cn, pressable } from "@/lib/utils";
 const EMAIL = "ishangupta14.7@gmail.com";
 
 const profiles = [
-  { label: "GitHub", href: "https://github.com/ishan1407", Icon: FaGithub, tilt: "hover:rotate-6" },
+  { label: "GitHub", href: "https://github.com/ishan14-7", Icon: FaGithub, tilt: "hover:rotate-6" },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/ishan1407/", Icon: FaLinkedin, tilt: "hover:-rotate-6" },
 ];
 
